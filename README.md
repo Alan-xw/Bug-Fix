@@ -1,5 +1,5 @@
-# Bug-Fix :grimacing:
-Summary about daily bug fixing
+# Bug-Fix 
+Summary about daily bug fixing :grimacing:
 
 ### Contents
 
